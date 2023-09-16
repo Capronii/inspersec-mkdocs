@@ -1,6 +1,17 @@
 site_name: InsperSec
+
+
 nav:
-  - Home: index.md
+    - Sobre: index.md
+    - Curso Introdutorio: video-aulas.md
+
+
+
 theme: windmill-dark
+
+markdown_extensions:
+    - toc:
+        permalink: '#'
+
 extra:
   version: 1.0.0
