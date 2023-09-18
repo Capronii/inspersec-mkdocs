@@ -3,6 +3,9 @@ site_name: InsperSec
 
 nav:
     - Sobre: index.md
+    - Sobre Cybersecurity: 
+        - Introdução: sobre-cybersecurity.md
+        - Princípios Basicos: principios-basicos.md
     - Curso Introdutorio: video-aulas.md
 
 
