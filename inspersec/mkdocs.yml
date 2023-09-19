@@ -7,6 +7,9 @@ nav:
         - Introdução: sobre-cybersecurity.md
         - Princípios Basicos: principios-basicos.md
     - Curso Introdutorio: video-aulas.md
+    - Ferramentas Importantes:
+        - Nmap: nmap.md
+        - Wireshark: wireshark.md
 
 
 
